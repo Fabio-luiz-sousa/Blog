@@ -1,0 +1,7 @@
+aula-projeto-blog-venv/
+blog/__pycache__
+categorias/__pycache__
+comentarios/__pycache__
+posts/__pycache__
+blog/local_settings.py
+blog/senha.py
