@@ -5,3 +5,4 @@ comentarios/__pycache__
 posts/__pycache__
 blog/local_settings.py
 blog/senha.py
+templatetags/__pycache__
