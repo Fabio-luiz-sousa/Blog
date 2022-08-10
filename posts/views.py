@@ -7,7 +7,9 @@ from comentarios.forms import FormComentario
 from comentarios.models import Comentario
 from django.contrib import messages
 from django.views import View
+from blog.senha import secret_front
 
+secret=secret_front
 
 class PostIndex(ListView):
     model = Post
