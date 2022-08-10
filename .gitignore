@@ -7,3 +7,4 @@ blog/local_settings.py
 blog/senha.py
 templatetags/__pycache__
 posts/templates/posts/post_detalhes.html
+posts/migrations/__pycache__
